@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-01-01T12:00:00",
+    "description": "Sample mouse actions for demonstration purposes",
+    "total_actions": 12,
+    "duration": 8.5,
+    "pattern_type": "mixed_demo"
+  },
+  "actions": [
+    {
+      "type": "click",
+      "x": 100,
+      "y": 100,
+      "button": "left",
+      "timestamp": 0.0,
+      "absolute_time": "2024-01-01T12:00:00"
+    },
+    {
+      "type": "click",
+      "x": 200,
+      "y": 100,
+      "button": "left",
+      "timestamp": 1.0,
+      "absolute_time": "2024-01-01T12:00:01"
+    },
+    {
+      "type": "click",
+      "x": 200,
+      "y": 200,
+      "button": "left",
+      "timestamp": 2.0,
+      "absolute_time": "2024-01-01T12:00:02"
+    },
+    {
+      "type": "click",
+      "x": 100,
+      "y": 200,
+      "button": "left",
+      "timestamp": 3.0,
+      "absolute_time": "2024-01-01T12:00:03"
+    },
+    {
+      "type": "click",
+      "x": 150,
+      "y": 150,
+      "button": "right",
+      "timestamp": 4.0,
+      "absolute_time": "2024-01-01T12:00:04"
+    },
+    {
+      "type": "click",
+      "x": 250,
+      "y": 150,
+      "button": "left",
+      "timestamp": 4.5,
+      "absolute_time": "2024-01-01T12:00:04.5"
+    },
+    {
+      "type": "click",
+      "x": 300,
+      "y": 100,
+      "button": "left",
+      "timestamp": 5.0,
+      "absolute_time": "2024-01-01T12:00:05"
+    },
+    {
+      "type": "click",
+      "x": 350,
+      "y": 150,
+      "button": "middle",
+      "timestamp": 5.5,
+      "absolute_time": "2024-01-01T12:00:05.5"
+    },
+    {
+      "type": "click",
+      "x": 300,
+      "y": 200,
+      "button": "left",
+      "timestamp": 6.0,
+      "absolute_time": "2024-01-01T12:00:06"
+    },
+    {
+      "type": "click",
+      "x": 250,
+      "y": 250,
+      "button": "left",
+      "timestamp": 6.5,
+      "absolute_time": "2024-01-01T12:00:06.5"
+    },
+    {
+      "type": "click",
+      "x": 150,
+      "y": 250,
+      "button": "right",
+      "timestamp": 7.5,
+      "absolute_time": "2024-01-01T12:00:07.5"
+    },
+    {
+      "type": "click",
+      "x": 50,
+      "y": 150,
+      "button": "left",
+      "timestamp": 8.5,
+      "absolute_time": "2024-01-01T12:00:08.5"
+    }
+  ]
+}

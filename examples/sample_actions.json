@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "recorded_at": "2024-01-01T12:00:00.000000",
+    "action_count": 8,
+    "duration": 3.0
+  },
+  "actions": [
+    {
+      "timestamp": 0.0,
+      "action_type": "move",
+      "x": 100,
+      "y": 100,
+      "button": null,
+      "pressed": null,
+      "scroll_direction": null,
+      "scroll_amount": null
+    },
+    {
+      "timestamp": 0.5,
+      "action_type": "click",
+      "x": 100,
+      "y": 100,
+      "button": "left",
+      "pressed": true,
+      "scroll_direction": null,
+      "scroll_amount": null
+    },
+    {
+      "timestamp": 0.6,
+      "action_type": "click",
+      "x": 100,
+      "y": 100,
+      "button": "left",
+      "pressed": false,
+      "scroll_direction": null,
+      "scroll_amount": null
+    },
+    {
+      "timestamp": 1.0,
+      "action_type": "move",
+      "x": 300,
+      "y": 200,
+      "button": null,
+      "pressed": null,
+      "scroll_direction": null,
+      "scroll_amount": null
+    },
+    {
+      "timestamp": 1.5,
+      "action_type": "click",
+      "x": 300,
+      "y": 200,
+      "button": "right",
+      "pressed": true,
+      "scroll_direction": null,
+      "scroll_amount": null
+    },
+    {
+      "timestamp": 1.6,
+      "action_type": "click",
+      "x": 300,
+      "y": 200,
+      "button": "right",
+      "pressed": false,
+      "scroll_direction": null,
+      "scroll_amount": null
+    },
+    {
+      "timestamp": 2.0,
+      "action_type": "scroll",
+      "x": 300,
+      "y": 200,
+      "button": null,
+      "pressed": null,
+      "scroll_direction": "up",
+      "scroll_amount": 3
+    },
+    {
+      "timestamp": 3.0,
+      "action_type": "move",
+      "x": 150,
+      "y": 150,
+      "button": null,
+      "pressed": null,
+      "scroll_direction": null,
+      "scroll_amount": null
+    }
+  ]
+}

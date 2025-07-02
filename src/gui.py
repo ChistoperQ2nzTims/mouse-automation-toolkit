@@ -15,9 +15,14 @@ import os
 from typing import List, Optional, Dict, Any
 import logging
 
-from .recorder import MouseRecorder, MouseAction
-from .transformer import CoordinateTransformer
-from .player import ActionPlayer
+try:
+    from .recorder import MouseRecorder, MouseAction
+    from .transformer import CoordinateTransformer
+    from .player import ActionPlayer
+except ImportError:
+    from recorder import MouseRecorder, MouseAction
+    from transformer import CoordinateTransformer
+    from player import ActionPlayer
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

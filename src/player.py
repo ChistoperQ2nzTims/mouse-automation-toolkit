@@ -24,7 +24,10 @@ try:
 except ImportError:
     raise ImportError("pynput is required. Install with: pip install pynput")
 
-from .recorder import MouseAction
+try:
+    from .recorder import MouseAction
+except ImportError:
+    from recorder import MouseAction
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

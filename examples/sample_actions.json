@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "recorded_at": "2024-01-01T12:00:00.000000",
+    "total_actions": 8,
+    "duration": 2.1,
+    "description": "Sample mouse actions demonstrating various action types"
+  },
+  "actions": [
+    {
+      "action_type": "move",
+      "x": 500,
+      "y": 300,
+      "button": null,
+      "timestamp": 1704110400.0,
+      "delay": 0.0
+    },
+    {
+      "action_type": "press",
+      "x": 500,
+      "y": 300,
+      "button": "left",
+      "timestamp": 1704110400.2,
+      "delay": 0.2
+    },
+    {
+      "action_type": "move",
+      "x": 600,
+      "y": 350,
+      "button": null,
+      "timestamp": 1704110400.5,
+      "delay": 0.3
+    },
+    {
+      "action_type": "release",
+      "x": 600,
+      "y": 350,
+      "button": "left",
+      "timestamp": 1704110400.7,
+      "delay": 0.2
+    },
+    {
+      "action_type": "move",
+      "x": 550,
+      "y": 400,
+      "button": null,
+      "timestamp": 1704110401.0,
+      "delay": 0.3
+    },
+    {
+      "action_type": "press",
+      "x": 550,
+      "y": 400,
+      "button": "right",
+      "timestamp": 1704110401.2,
+      "delay": 0.2
+    },
+    {
+      "action_type": "release",
+      "x": 550,
+      "y": 400,
+      "button": "right",
+      "timestamp": 1704110401.4,
+      "delay": 0.2
+    },
+    {
+      "action_type": "move",
+      "x": 450,
+      "y": 250,
+      "button": null,
+      "timestamp": 1704110402.1,
+      "delay": 0.7
+    }
+  ]
+}

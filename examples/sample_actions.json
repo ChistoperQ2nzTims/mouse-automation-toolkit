@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "x": 100,
+      "y": 100,
+      "button": "left",
+      "timestamp": 0.0,
+      "action_type": "click"
+    },
+    {
+      "x": 300,
+      "y": 100,
+      "button": "left",
+      "timestamp": 1.5,
+      "action_type": "click"
+    },
+    {
+      "x": 300,
+      "y": 300,
+      "button": "left",
+      "timestamp": 3.0,
+      "action_type": "click"
+    },
+    {
+      "x": 100,
+      "y": 300,
+      "button": "left",
+      "timestamp": 4.5,
+      "action_type": "click"
+    },
+    {
+      "x": 200,
+      "y": 200,
+      "button": "right",
+      "timestamp": 6.0,
+      "action_type": "click"
+    },
+    {
+      "x": 150,
+      "y": 150,
+      "button": "left",
+      "timestamp": 7.0,
+      "action_type": "click"
+    },
+    {
+      "x": 250,
+      "y": 150,
+      "button": "left",
+      "timestamp": 8.0,
+      "action_type": "click"
+    },
+    {
+      "x": 250,
+      "y": 250,
+      "button": "left",
+      "timestamp": 9.0,
+      "action_type": "click"
+    },
+    {
+      "x": 150,
+      "y": 250,
+      "button": "left",
+      "timestamp": 10.0,
+      "action_type": "click"
+    }
+  ],
+  "metadata": {
+    "created_at": "2024-01-01T12:00:00.000000",
+    "total_actions": 9,
+    "total_duration": 10.0,
+    "version": "1.0.0",
+    "description": "Sample mouse actions demonstrating various click patterns",
+    "pattern": "Rectangle with inner square and center right-click"
+  }
+}
